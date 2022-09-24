@@ -1,0 +1,18 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #6F38C5;
+  }
+  
+  #projects{
+    background-color: #6F38C5;
+  }
+  
+  section{
+    padding-top: 5rem;
+  }
+  .btn-primary{
+    background-color: #181818;
+  }
+  .btn-loading {
+    background-color: #181818;
+  }
